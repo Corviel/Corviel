@@ -1,4 +1,4 @@
-# Hi! 👻 I am Gabriel Menezes. Front-end Developer.
+# Hi! 👻 I am Gabriel Beltrão. Front-end Developer.
 
 ### These are the languages (markup included) i use.
  <div style="display: inline_block"><br>
