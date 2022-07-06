@@ -1,4 +1,4 @@
-# Hi! 👋🏼 I am Gabriel Beltrão. Front-end Developer.
+# Hi! 👋🏼 I am Gabriel Beltrão. A web developer.
 
 ## These are my github stats.
 <div align="center">
